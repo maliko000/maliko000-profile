@@ -15,29 +15,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 Who I Am
-
-```typescript
-const maliko000 = {
-  name: "Malik Muneeb Awan",
-  title: "Web Developer | AI Student",
-  stack: ["Python", "JavaScript", "HTML/CSS", "React", "SQL", "AI/ML"],
-  launchedProjects: ["Coming soon, building in public 🚀"],
-  certifications: ["SQL", "AI Engineering", "Web Development"],
-  experience: "Hackathon Organizer @ COMSATS University Islamabad, Wah Campus",
-  status: "Learning, building and organizing 🌱",
-  openTo: ["Collaboration", "Internships", "Freelance"],
-};
-```
-
----
-
-<!--
-FEATURED PROJECTS (template, hidden until you have real repos)
-To enable: delete the "<!--" line above and the "-->" line below, then replace
-YOUR-REPO-NAME, the description and the live link with real details.
 
 ## 🚀 Featured Projects
 
@@ -94,14 +71,6 @@ YOUR-REPO-NAME, the description and the live link with real details.
 
 <img src="https://github-profile-trophy.vercel.app/?username=maliko000&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maliko000&bg_color=2e3440&color=c4b5fd&line=c4b5fd&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
 ---
