@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=maliko000&color=c4b5fd&style=flat-square&label=Profile+Views" alt="Profile views" />
+
 <a href="https://github.com/maliko000?tab=followers">
   <img src="https://img.shields.io/github/followers/maliko000?label=Followers&style=flat-square&color=c4b5fd&labelColor=1e1b4b&logo=github&logoColor=white" alt="Followers" />
 </a>
