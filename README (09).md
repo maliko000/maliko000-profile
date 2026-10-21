@@ -67,9 +67,7 @@
 
 <img src="https://streak-stats.demolab.com?user=maliko000&theme=nord&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd&border=c4b5fd" alt="GitHub streak" />
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=maliko000&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 
 </div>
 
